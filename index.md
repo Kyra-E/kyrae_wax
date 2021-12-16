@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: home
 show_title: false
 banner:
-  collection: qatar
+  collection: waxpics
   pid: obj10
   y: 25%
   height: '500px'
