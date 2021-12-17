@@ -8,6 +8,6 @@ order: '06'
 layout: waxpics
 collection: waxpics
 thumbnail: "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg"
-full: "/img/derivatives/simple/obj7/fullwidth.jpg"
+full: "/img/derivatives/iiif/images/obj7/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj7/manifest.json"
 ---
