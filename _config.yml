@@ -20,7 +20,7 @@
 
 title:            'Wax'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://kyra-e.github.io' 
+url:              '' 
 baseurl:          '/kyrae_wax'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
